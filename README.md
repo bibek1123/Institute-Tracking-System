@@ -25,12 +25,13 @@ This project aims to build a backend system for institutes to track their instru
 git clone <repository-url>
 ```
 2. Install dependencies:
-
+```bash
 cd institute-tracking-system
 npm install
-
+```
 3. Set up environment variables:
 Create a .env file in the root directory and add the following variables:
+```bash
 PORT=
 DB_CONNECTION=
 DB_HOST=
@@ -40,6 +41,8 @@ DB_USERNAME=
 DB_PASSWORD=
 JWT_TOKEN_EXPIRE=
 SECRET_KEY=
-
-4. Start the server:
+```
+5. Start the server:
+```bash
 npm start
+```
