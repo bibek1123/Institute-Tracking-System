@@ -4,7 +4,7 @@ This project aims to build a backend system for institutes to track their instru
 
 ## Features
 
-- **Nultiple Check-in and Check-out**: Record multiple check-in and check-out times for instructors.
+- **Multiple Check-in and Check-out**: Record multiple check-in and check-out times for instructors.
 - **Monthly Reports**: Generate aggregated monthly reports of working hours for each instructor.
 - **Authentication**: Implement user authentication using JWT to ensure secure access to the system.
 - **Login, Signup, Update Instructor data, Soft Delete, All intsructors list, Individual instructor data, Chnage password, Get Instructor Profile**: Implement login, signup, update instructor, soft delete instructor, all instructor list, individual instructor data, change password and get instructor profile.
@@ -23,7 +23,7 @@ This project aims to build a backend system for institutes to track their instru
 
 ```bash
 git clone <repository-url>
-
+```
 2. Install dependencies:
 
 cd institute-tracking-system
