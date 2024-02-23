@@ -1,0 +1,93 @@
+error: Feb-23-2024 00:30:58: TokenExpiredError: jwt expired
+    at F:\instructor_attendance_apis\api\node_modules\jsonwebtoken\verify.js:152:21
+    at getSecret (F:\instructor_attendance_apis\api\node_modules\jsonwebtoken\verify.js:90:14)
+    at module.exports [as verify] (F:\instructor_attendance_apis\api\node_modules\jsonwebtoken\verify.js:94:10)
+    at authenticate (F:\instructor_attendance_apis\api\middleware\authenticate.js:12:29)
+    at Layer.handle [as handle_request] (F:\instructor_attendance_apis\api\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\instructor_attendance_apis\api\node_modules\express\lib\router\route.js:137:13)
+    at F:\instructor_attendance_apis\api\middleware\validate.js:10:7
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+error: Feb-23-2024 12:37:05: TokenExpiredError: jwt expired
+    at F:\instructor_attendance_apis\api\node_modules\jsonwebtoken\verify.js:152:21
+    at getSecret (F:\instructor_attendance_apis\api\node_modules\jsonwebtoken\verify.js:90:14)
+    at module.exports [as verify] (F:\instructor_attendance_apis\api\node_modules\jsonwebtoken\verify.js:94:10)
+    at authenticate (F:\instructor_attendance_apis\api\middleware\authenticate.js:12:29)
+    at Layer.handle [as handle_request] (F:\instructor_attendance_apis\api\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\instructor_attendance_apis\api\node_modules\express\lib\router\route.js:137:13)
+    at F:\instructor_attendance_apis\api\middleware\validate.js:10:7
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+error: Feb-23-2024 13:21:59: ReferenceError: parsedCheckOutTime is not defined
+    at exports.checkOutService (F:\instructor_attendance_apis\api\services\checkOutService.js:11:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.checkOut (F:\instructor_attendance_apis\api\controllers\checkOutController.js:5:24)
+error: Feb-23-2024 13:22:32: ReferenceError: parsedCheckOutTime is not defined
+    at exports.checkOutService (F:\instructor_attendance_apis\api\services\checkOutService.js:11:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.checkOut (F:\instructor_attendance_apis\api\controllers\checkOutController.js:5:24)
+error: Feb-23-2024 13:39:31: TokenExpiredError: jwt expired
+    at F:\instructor_attendance_apis\api\node_modules\jsonwebtoken\verify.js:152:21
+    at getSecret (F:\instructor_attendance_apis\api\node_modules\jsonwebtoken\verify.js:90:14)
+    at module.exports [as verify] (F:\instructor_attendance_apis\api\node_modules\jsonwebtoken\verify.js:94:10)
+    at authenticate (F:\instructor_attendance_apis\api\middleware\authenticate.js:12:29)
+    at Layer.handle [as handle_request] (F:\instructor_attendance_apis\api\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\instructor_attendance_apis\api\node_modules\express\lib\router\route.js:137:13)
+    at F:\instructor_attendance_apis\api\middleware\validate.js:10:7
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+error: Feb-23-2024 15:41:35: TokenExpiredError: jwt expired
+    at F:\instructor_attendance_apis\api\node_modules\jsonwebtoken\verify.js:152:21
+    at getSecret (F:\instructor_attendance_apis\api\node_modules\jsonwebtoken\verify.js:90:14)
+    at module.exports [as verify] (F:\instructor_attendance_apis\api\node_modules\jsonwebtoken\verify.js:94:10)
+    at authenticate (F:\instructor_attendance_apis\api\middleware\authenticate.js:12:29)
+    at Layer.handle [as handle_request] (F:\instructor_attendance_apis\api\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\instructor_attendance_apis\api\node_modules\express\lib\router\route.js:137:13)
+    at F:\instructor_attendance_apis\api\middleware\validate.js:10:7
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+error: Feb-23-2024 15:42:34: TokenExpiredError: jwt expired
+    at F:\instructor_attendance_apis\api\node_modules\jsonwebtoken\verify.js:152:21
+    at getSecret (F:\instructor_attendance_apis\api\node_modules\jsonwebtoken\verify.js:90:14)
+    at module.exports [as verify] (F:\instructor_attendance_apis\api\node_modules\jsonwebtoken\verify.js:94:10)
+    at authenticate (F:\instructor_attendance_apis\api\middleware\authenticate.js:12:29)
+    at Layer.handle [as handle_request] (F:\instructor_attendance_apis\api\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\instructor_attendance_apis\api\node_modules\express\lib\router\route.js:137:13)
+    at F:\instructor_attendance_apis\api\middleware\validate.js:10:7
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+error: Feb-23-2024 15:42:40: TokenExpiredError: jwt expired
+    at F:\instructor_attendance_apis\api\node_modules\jsonwebtoken\verify.js:152:21
+    at getSecret (F:\instructor_attendance_apis\api\node_modules\jsonwebtoken\verify.js:90:14)
+    at module.exports [as verify] (F:\instructor_attendance_apis\api\node_modules\jsonwebtoken\verify.js:94:10)
+    at authenticate (F:\instructor_attendance_apis\api\middleware\authenticate.js:12:29)
+    at Layer.handle [as handle_request] (F:\instructor_attendance_apis\api\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\instructor_attendance_apis\api\node_modules\express\lib\router\route.js:137:13)
+    at F:\instructor_attendance_apis\api\middleware\validate.js:10:7
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+error: Feb-23-2024 16:29:52: TokenExpiredError: jwt expired
+    at F:\instructor_attendance_apis\api\node_modules\jsonwebtoken\verify.js:152:21
+    at getSecret (F:\instructor_attendance_apis\api\node_modules\jsonwebtoken\verify.js:90:14)
+    at module.exports [as verify] (F:\instructor_attendance_apis\api\node_modules\jsonwebtoken\verify.js:94:10)
+    at authenticate (F:\instructor_attendance_apis\api\middleware\authenticate.js:11:29)
+    at Layer.handle [as handle_request] (F:\instructor_attendance_apis\api\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\instructor_attendance_apis\api\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (F:\instructor_attendance_apis\api\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (F:\instructor_attendance_apis\api\node_modules\express\lib\router\layer.js:95:5)
+    at F:\instructor_attendance_apis\api\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (F:\instructor_attendance_apis\api\node_modules\express\lib\router\index.js:341:12)
+error: Feb-23-2024 16:32:24: TokenExpiredError: jwt expired
+    at F:\instructor_attendance_apis\api\node_modules\jsonwebtoken\verify.js:152:21
+    at getSecret (F:\instructor_attendance_apis\api\node_modules\jsonwebtoken\verify.js:90:14)
+    at module.exports [as verify] (F:\instructor_attendance_apis\api\node_modules\jsonwebtoken\verify.js:94:10)
+    at authenticate (F:\instructor_attendance_apis\api\middleware\authenticate.js:11:29)
+    at Layer.handle [as handle_request] (F:\instructor_attendance_apis\api\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\instructor_attendance_apis\api\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (F:\instructor_attendance_apis\api\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (F:\instructor_attendance_apis\api\node_modules\express\lib\router\layer.js:95:5)
+    at F:\instructor_attendance_apis\api\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (F:\instructor_attendance_apis\api\node_modules\express\lib\router\index.js:341:12)
+error: Feb-23-2024 16:33:45: TokenExpiredError: jwt expired
+    at F:\instructor_attendance_apis\api\node_modules\jsonwebtoken\verify.js:152:21
+    at getSecret (F:\instructor_attendance_apis\api\node_modules\jsonwebtoken\verify.js:90:14)
+    at module.exports [as verify] (F:\instructor_attendance_apis\api\node_modules\jsonwebtoken\verify.js:94:10)
+    at authenticate (F:\instructor_attendance_apis\api\middleware\authenticate.js:11:29)
+    at Layer.handle [as handle_request] (F:\instructor_attendance_apis\api\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\instructor_attendance_apis\api\node_modules\express\lib\router\route.js:137:13)
+    at F:\instructor_attendance_apis\api\middleware\validate.js:10:7
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)

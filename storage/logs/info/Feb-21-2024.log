@@ -1,0 +1,127 @@
+info: Feb-21-2024 17:37:19: 	Server is running at PORT 8000
+info: Feb-21-2024 17:37:24: 	Connection Successful
+info: Feb-21-2024 18:00:37: 	Server is running at PORT 8000
+info: Feb-21-2024 18:00:44: 	Connection Successful
+info: Feb-21-2024 18:22:50: 	Server is running at PORT 8000
+info: Feb-21-2024 18:22:52: 	Connection Successful
+info: Feb-21-2024 18:29:33: 	Server is running at PORT 8000
+info: Feb-21-2024 18:29:34: 	Connection Successful
+info: Feb-21-2024 18:30:14: 	Server is running at PORT 8000
+info: Feb-21-2024 18:30:16: 	Connection Successful
+info: Feb-21-2024 18:30:33: 	Server is running at PORT 8000
+info: Feb-21-2024 18:30:35: 	Connection Successful
+info: Feb-21-2024 18:31:30: 	Server is running at PORT 8000
+info: Feb-21-2024 18:31:36: 	Connection Successful
+info: Feb-21-2024 18:32:09: 	Server is running at PORT 8000
+info: Feb-21-2024 18:32:10: 	Connection Successful
+info: Feb-21-2024 18:32:13: 	Server is running at PORT 8000
+info: Feb-21-2024 18:32:14: 	Connection Successful
+info: Feb-21-2024 18:32:19: 	Server is running at PORT 8000
+info: Feb-21-2024 18:32:22: 	Server is running at PORT 8000
+info: Feb-21-2024 18:32:23: 	Connection Successful
+info: Feb-21-2024 18:32:26: 	Server is running at PORT 8000
+info: Feb-21-2024 18:32:28: 	Connection Successful
+info: Feb-21-2024 18:32:30: 	Server is running at PORT 8000
+info: Feb-21-2024 18:32:32: 	Server is running at PORT 8000
+info: Feb-21-2024 18:32:33: 	Connection Successful
+info: Feb-21-2024 18:44:31: 	Server is running at PORT 8000
+info: Feb-21-2024 18:44:33: 	Connection Successful
+info: Feb-21-2024 18:47:52: 	Server is running at PORT 8000
+info: Feb-21-2024 18:47:55: 	Server is running at PORT 8000
+info: Feb-21-2024 18:47:57: 	Connection Successful
+info: Feb-21-2024 18:48:03: 	Server is running at PORT 8000
+info: Feb-21-2024 18:48:04: 	Connection Successful
+info: Feb-21-2024 18:48:42: 	Server is running at PORT 8000
+info: Feb-21-2024 18:48:43: 	Connection Successful
+info: Feb-21-2024 18:48:51: 	Server is running at PORT 8000
+info: Feb-21-2024 18:48:52: 	Connection Successful
+info: Feb-21-2024 18:49:16: 	Server is running at PORT 8000
+info: Feb-21-2024 18:49:18: 	Connection Successful
+error: Feb-21-2024 18:50:48: 	Error - authenticate- jwt expired
+info: Feb-21-2024 18:52:58: 	Server is running at PORT 8000
+info: Feb-21-2024 18:53:00: 	Connection Successful
+info: Feb-21-2024 19:00:34: 	Server is running at PORT 8000
+info: Feb-21-2024 19:00:36: 	Connection Successful
+info: Feb-21-2024 19:11:09: 	Server is running at PORT 8000
+info: Feb-21-2024 19:11:12: 	Connection Successful
+info: Feb-21-2024 19:11:57: 	Server is running at PORT 8000
+info: Feb-21-2024 19:12:01: 	Server is running at PORT 8000
+info: Feb-21-2024 19:12:02: 	Connection Successful
+info: Feb-21-2024 19:12:49: 	Server is running at PORT 8000
+info: Feb-21-2024 19:12:50: 	Connection Successful
+error: Feb-21-2024 19:13:09: 	Error - authenticate- jwt expired
+info: Feb-21-2024 19:17:20: 	Server is running at PORT 8000
+info: Feb-21-2024 19:17:22: 	Connection Successful
+info: Feb-21-2024 19:20:20: 	Server is running at PORT 8000
+info: Feb-21-2024 19:20:23: 	Connection Successful
+info: Feb-21-2024 19:21:37: 	Server is running at PORT 8000
+info: Feb-21-2024 19:21:40: 	Connection Successful
+error: Feb-21-2024 19:21:48: 	Error - authenticate- jwt expired
+error: Feb-21-2024 19:23:07: 	Error - authenticate- jwt expired
+error: Feb-21-2024 19:23:31: 	Error - authenticate- jwt expired
+info: Feb-21-2024 19:23:58: 	Server is running at PORT 8000
+info: Feb-21-2024 19:24:01: 	Connection Successful
+info: Feb-21-2024 19:24:44: 	Server is running at PORT 8000
+info: Feb-21-2024 19:24:45: 	Connection Successful
+info: Feb-21-2024 19:24:58: 	Server is running at PORT 8000
+info: Feb-21-2024 19:24:59: 	Connection Successful
+info: Feb-21-2024 19:35:16: 	Server is running at PORT 8000
+info: Feb-21-2024 19:35:19: 	Server is running at PORT 8000
+info: Feb-21-2024 19:35:21: 	Connection Successful
+info: Feb-21-2024 19:35:34: 	Server is running at PORT 8000
+info: Feb-21-2024 19:35:35: 	Connection Successful
+info: Feb-21-2024 19:35:37: 	Server is running at PORT 8000
+info: Feb-21-2024 19:35:39: 	Connection Successful
+info: Feb-21-2024 19:36:31: 	Server is running at PORT 8000
+info: Feb-21-2024 19:36:33: 	Connection Successful
+info: Feb-21-2024 19:36:43: 	Server is running at PORT 8000
+info: Feb-21-2024 19:36:47: 	Server is running at PORT 8000
+info: Feb-21-2024 19:36:48: 	Connection Successful
+info: Feb-21-2024 19:37:00: 	Server is running at PORT 8000
+info: Feb-21-2024 19:37:02: 	Connection Successful
+info: Feb-21-2024 19:37:12: 	Server is running at PORT 8000
+info: Feb-21-2024 19:37:13: 	Connection Successful
+info: Feb-21-2024 19:37:17: 	Server is running at PORT 8000
+info: Feb-21-2024 19:37:18: 	Connection Successful
+info: Feb-21-2024 19:37:23: 	Server is running at PORT 8000
+info: Feb-21-2024 19:37:24: 	Connection Successful
+info: Feb-21-2024 19:37:57: 	Server is running at PORT 8000
+info: Feb-21-2024 19:37:58: 	Connection Successful
+info: Feb-21-2024 19:38:17: 	Server is running at PORT 8000
+info: Feb-21-2024 19:38:18: 	Connection Successful
+info: Feb-21-2024 19:38:27: 	Server is running at PORT 8000
+info: Feb-21-2024 19:38:29: 	Server is running at PORT 8000
+info: Feb-21-2024 19:38:31: 	Connection Successful
+info: Feb-21-2024 19:38:34: 	Server is running at PORT 8000
+info: Feb-21-2024 19:38:35: 	Connection Successful
+info: Feb-21-2024 19:38:40: 	Server is running at PORT 8000
+info: Feb-21-2024 19:38:41: 	Connection Successful
+info: Feb-21-2024 19:38:46: 	Server is running at PORT 8000
+info: Feb-21-2024 19:38:47: 	Connection Successful
+info: Feb-21-2024 19:39:20: 	Server is running at PORT 8000
+info: Feb-21-2024 19:39:22: 	Connection Successful
+info: Feb-21-2024 19:55:08: 	Server is running at PORT 8000
+info: Feb-21-2024 19:55:10: 	Connection Successful
+info: Feb-21-2024 19:55:46: 	Server is running at PORT 8000
+info: Feb-21-2024 19:55:48: 	Connection Successful
+info: Feb-21-2024 20:10:02: 	Server is running at PORT 8000
+info: Feb-21-2024 20:10:04: 	Connection Successful
+info: Feb-21-2024 20:11:49: 	Server is running at PORT 8000
+info: Feb-21-2024 20:11:51: 	Connection Successful
+info: Feb-21-2024 20:12:04: 	Server is running at PORT 8000
+info: Feb-21-2024 20:12:06: 	Connection Successful
+info: Feb-21-2024 20:12:18: 	Server is running at PORT 8000
+info: Feb-21-2024 20:12:25: 	Server is running at PORT 8000
+info: Feb-21-2024 20:12:26: 	Connection Successful
+info: Feb-21-2024 20:12:36: 	Server is running at PORT 8000
+info: Feb-21-2024 20:12:37: 	Connection Successful
+info: Feb-21-2024 20:13:18: 	Server is running at PORT 8000
+info: Feb-21-2024 20:13:19: 	Connection Successful
+info: Feb-21-2024 20:13:24: 	Server is running at PORT 8000
+info: Feb-21-2024 20:13:25: 	Connection Successful
+error: Feb-21-2024 20:13:36: 	Error - authenticate- jwt expired
+error: Feb-21-2024 20:14:21: 	Error -checkOutService- Instructor is not defined
+info: Feb-21-2024 20:15:03: 	Server is running at PORT 8000
+info: Feb-21-2024 20:15:06: 	Connection Successful
+info: Feb-21-2024 20:18:29: 	Server is running at PORT 8000
+info: Feb-21-2024 20:18:33: 	Connection Successful

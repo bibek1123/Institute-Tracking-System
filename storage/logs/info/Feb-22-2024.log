@@ -1,0 +1,148 @@
+info: Feb-22-2024 20:09:32: 	Server is running at PORT 8000
+info: Feb-22-2024 20:09:35: 	Connection Successful
+info: Feb-22-2024 20:13:36: 	Server is running at PORT 8000
+info: Feb-22-2024 20:13:38: 	Connection Successful
+error: Feb-22-2024 20:16:46: 	Error -instructorRegistration- instructor validation failed: instructorId: Path `instructorId` is required.
+info: Feb-22-2024 20:18:10: 	Server is running at PORT 8000
+info: Feb-22-2024 20:18:13: 	Connection Successful
+info: Feb-22-2024 20:19:24: 	Server is running at PORT 8000
+info: Feb-22-2024 20:19:27: 	Connection Successful
+info: Feb-22-2024 20:19:35: 	Server is running at PORT 8000
+info: Feb-22-2024 20:19:40: 	Server is running at PORT 8000
+info: Feb-22-2024 20:19:42: 	Connection Successful
+info: Feb-22-2024 20:19:47: 	Server is running at PORT 8000
+info: Feb-22-2024 20:19:49: 	Connection Successful
+info: Feb-22-2024 20:19:55: 	Server is running at PORT 8000
+info: Feb-22-2024 20:19:56: 	Connection Successful
+info: Feb-22-2024 20:20:01: 	Server is running at PORT 8000
+info: Feb-22-2024 20:20:04: 	Connection Successful
+info: Feb-22-2024 20:20:38: 	Server is running at PORT 8000
+info: Feb-22-2024 20:20:40: 	Connection Successful
+info: Feb-22-2024 20:22:01: 	Server is running at PORT 8000
+info: Feb-22-2024 20:22:03: 	Connection Successful
+info: Feb-22-2024 20:22:20: 	Server is running at PORT 8000
+info: Feb-22-2024 20:22:22: 	Connection Successful
+info: Feb-22-2024 20:22:24: 	Server is running at PORT 8000
+info: Feb-22-2024 20:22:26: 	Connection Successful
+info: Feb-22-2024 20:24:04: 	Server is running at PORT 8000
+info: Feb-22-2024 20:24:06: 	Connection Successful
+info: Feb-22-2024 20:25:10: 	Server is running at PORT 8000
+info: Feb-22-2024 20:25:16: 	Server is running at PORT 8000
+info: Feb-22-2024 20:25:17: 	Connection Successful
+info: Feb-22-2024 20:40:33: 	Server is running at PORT 8000
+info: Feb-22-2024 20:40:34: 	Connection Successful
+error: Feb-22-2024 20:41:56: 	Error -instructorRegistration- Parameter "obj" to Document() must be an object, got 75c57a52-62d6-464b-9bdc-a22ae5071854
+info: Feb-22-2024 20:45:22: 	Server is running at PORT 8000
+info: Feb-22-2024 20:45:24: 	Connection Successful
+error: Feb-22-2024 20:45:28: 	Error -instructorRegistration- instructor validation failed: password: Path `password` is required., email: Path `email` is required., fullName: Path `fullName` is required.
+info: Feb-22-2024 20:46:25: 	Server is running at PORT 8000
+info: Feb-22-2024 20:46:37: 	Server is running at PORT 8000
+info: Feb-22-2024 20:46:40: 	Server is running at PORT 8000
+info: Feb-22-2024 20:46:44: 	Server is running at PORT 8000
+info: Feb-22-2024 20:46:45: 	Connection Successful
+error: Feb-22-2024 20:46:48: 	Error -instructorRegistration- instructor validation failed: password: Path `password` is required., email: Path `email` is required., fullName: Path `fullName` is required.
+info: Feb-22-2024 20:47:05: 	Server is running at PORT 8000
+info: Feb-22-2024 20:47:10: 	Connection Successful
+info: Feb-22-2024 20:47:48: 	Server is running at PORT 8000
+info: Feb-22-2024 20:47:49: 	Connection Successful
+info: Feb-22-2024 20:48:02: 	Server is running at PORT 8000
+info: Feb-22-2024 20:48:04: 	Connection Successful
+info: Feb-22-2024 20:48:15: 	Server is running at PORT 8000
+info: Feb-22-2024 20:48:16: 	Connection Successful
+error: Feb-22-2024 20:50:15: 	Error -checkInService- moment is not defined
+info: Feb-22-2024 20:50:56: 	Server is running at PORT 8000
+info: Feb-22-2024 20:51:04: 	Connection Successful
+info: Feb-22-2024 20:51:08: 	Server is running at PORT 8000
+info: Feb-22-2024 20:51:12: 	Server is running at PORT 8000
+info: Feb-22-2024 20:51:13: 	Connection Successful
+info: Feb-22-2024 22:33:42: 	Server is running at PORT 8000
+info: Feb-22-2024 22:33:44: 	Connection Successful
+error: Feb-22-2024 22:33:46: 	Error - authenticate- jwt expired
+info: Feb-22-2024 22:38:34: 	Server is running at PORT 8000
+info: Feb-22-2024 22:38:37: 	Connection Successful
+info: Feb-22-2024 22:39:26: 	Server is running at PORT 8000
+info: Feb-22-2024 22:39:28: 	Connection Successful
+info: Feb-22-2024 22:42:09: 	Server is running at PORT 8000
+info: Feb-22-2024 22:42:11: 	Connection Successful
+info: Feb-22-2024 22:42:36: 	Server is running at PORT 8000
+info: Feb-22-2024 22:42:38: 	Connection Successful
+info: Feb-22-2024 22:49:26: 	Server is running at PORT 8000
+info: Feb-22-2024 22:49:28: 	Connection Successful
+info: Feb-22-2024 22:54:54: 	Server is running at PORT 8000
+info: Feb-22-2024 22:54:56: 	Server is running at PORT 8000
+info: Feb-22-2024 22:55:11: 	Server is running at PORT 8000
+info: Feb-22-2024 22:55:13: 	Connection Successful
+info: Feb-22-2024 22:56:24: 	Server is running at PORT 8000
+info: Feb-22-2024 22:56:26: 	Server is running at PORT 8000
+info: Feb-22-2024 22:56:29: 	Connection Successful
+info: Feb-22-2024 22:56:56: 	Server is running at PORT 8000
+info: Feb-22-2024 22:56:57: 	Connection Successful
+info: Feb-22-2024 22:57:44: 	Server is running at PORT 8000
+info: Feb-22-2024 22:57:46: 	Connection Successful
+info: Feb-22-2024 22:58:50: 	Server is running at PORT 8000
+info: Feb-22-2024 22:58:53: 	Connection Successful
+info: Feb-22-2024 23:21:34: 	Server is running at PORT 8000
+info: Feb-22-2024 23:21:39: 	Server is running at PORT 8000
+info: Feb-22-2024 23:21:40: 	Connection Successful
+info: Feb-22-2024 23:21:56: 	Server is running at PORT 8000
+info: Feb-22-2024 23:21:57: 	Connection Successful
+info: Feb-22-2024 23:22:01: 	Server is running at PORT 8000
+info: Feb-22-2024 23:22:02: 	Connection Successful
+info: Feb-22-2024 23:22:27: 	Server is running at PORT 8000
+info: Feb-22-2024 23:22:29: 	Connection Successful
+info: Feb-22-2024 23:22:33: 	Server is running at PORT 8000
+info: Feb-22-2024 23:22:34: 	Connection Successful
+info: Feb-22-2024 23:22:56: 	Server is running at PORT 8000
+info: Feb-22-2024 23:22:57: 	Connection Successful
+info: Feb-22-2024 23:23:04: 	Server is running at PORT 8000
+info: Feb-22-2024 23:23:05: 	Connection Successful
+info: Feb-22-2024 23:23:28: 	Server is running at PORT 8000
+info: Feb-22-2024 23:23:29: 	Connection Successful
+info: Feb-22-2024 23:23:39: 	Server is running at PORT 8000
+info: Feb-22-2024 23:23:41: 	Connection Successful
+error: Feb-22-2024 23:23:45: 	Error -getMonthlyReportService- The field 'fullName' must be an accumulator object
+info: Feb-22-2024 23:25:28: 	Server is running at PORT 8000
+info: Feb-22-2024 23:25:31: 	Connection Successful
+info: Feb-22-2024 23:25:47: 	Server is running at PORT 8000
+info: Feb-22-2024 23:25:48: 	Connection Successful
+info: Feb-22-2024 23:25:53: 	Server is running at PORT 8000
+info: Feb-22-2024 23:25:54: 	Connection Successful
+info: Feb-22-2024 23:25:59: 	Server is running at PORT 8000
+info: Feb-22-2024 23:26:00: 	Connection Successful
+info: Feb-22-2024 23:27:36: 	Server is running at PORT 8000
+info: Feb-22-2024 23:27:38: 	Connection Successful
+error: Feb-22-2024 23:27:42: 	Error -getMonthlyReportService- PlanExecutor error during aggregation :: caused by :: can't $subtract array from array
+info: Feb-22-2024 23:32:38: 	Server is running at PORT 8000
+info: Feb-22-2024 23:32:39: 	Connection Successful
+info: Feb-22-2024 23:32:49: 	Server is running at PORT 8000
+info: Feb-22-2024 23:32:51: 	Connection Successful
+info: Feb-22-2024 23:33:25: 	Server is running at PORT 8000
+info: Feb-22-2024 23:33:26: 	Connection Successful
+info: Feb-22-2024 23:33:32: 	Server is running at PORT 8000
+info: Feb-22-2024 23:33:33: 	Connection Successful
+info: Feb-22-2024 23:33:43: 	Server is running at PORT 8000
+info: Feb-22-2024 23:33:45: 	Connection Successful
+info: Feb-22-2024 23:33:50: 	Server is running at PORT 8000
+info: Feb-22-2024 23:33:51: 	Connection Successful
+info: Feb-22-2024 23:33:53: 	Server is running at PORT 8000
+info: Feb-22-2024 23:33:55: 	Connection Successful
+error: Feb-22-2024 23:33:59: 	Error - authenticate- jwt expired
+info: Feb-22-2024 23:36:56: 	Server is running at PORT 8000
+info: Feb-22-2024 23:36:59: 	Connection Successful
+info: Feb-22-2024 23:37:08: 	Server is running at PORT 8000
+info: Feb-22-2024 23:37:09: 	Connection Successful
+info: Feb-22-2024 23:37:31: 	Server is running at PORT 8000
+info: Feb-22-2024 23:37:32: 	Connection Successful
+info: Feb-22-2024 23:37:36: 	Server is running at PORT 8000
+info: Feb-22-2024 23:37:37: 	Connection Successful
+error: Feb-22-2024 23:37:40: 	Error -getMonthlyReportService- totalHours is not defined
+info: Feb-22-2024 23:38:33: 	Server is running at PORT 8000
+info: Feb-22-2024 23:38:35: 	Connection Successful
+info: Feb-22-2024 23:40:14: 	Server is running at PORT 8000
+info: Feb-22-2024 23:40:16: 	Connection Successful
+info: Feb-22-2024 23:57:49: 	Server is running at PORT 8000
+info: Feb-22-2024 23:57:51: 	Connection Successful
+info: Feb-22-2024 23:57:54: 	Server is running at PORT 8000
+info: Feb-22-2024 23:57:56: 	Connection Successful
+info: Feb-22-2024 23:58:04: 	Server is running at PORT 8000
+info: Feb-22-2024 23:58:05: 	Connection Successful
